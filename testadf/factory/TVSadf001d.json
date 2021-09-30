@@ -1,0 +1,9 @@
+{
+	"name": "TVSadf001d",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a0f356bd-f7ed-4e7b-a6f8-512871a01e7e",
+		"tenantId": "fec522cc-b848-4f1d-8218-f8fe450d87d5"
+	}
+}

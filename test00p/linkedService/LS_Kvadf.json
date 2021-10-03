@@ -1,0 +1,10 @@
+{
+	"name": "LS_Kvadf",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://testkv55.vault.azure.net/"
+		}
+	}
+}
